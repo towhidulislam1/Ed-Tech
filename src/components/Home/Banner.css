@@ -1,0 +1,14 @@
+.carousel-item {
+	height: 26rem;
+	background-color: #000;
+}
+.color {
+	color: rgb(42, 165, 155);
+	font-size: xx-large;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+}
+.color_sub {
+	color: gray;
+}
